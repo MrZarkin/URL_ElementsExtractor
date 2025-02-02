@@ -15,7 +15,7 @@ public class HTTPLoader {
     
     static HashMap<String, Data> map = new HashMap<>();
     
-    public static void getText(String _url) throws IOException
+    public static void getList(String _url) throws IOException
     {
     	try {
 			URI uri = new URI(_url);
