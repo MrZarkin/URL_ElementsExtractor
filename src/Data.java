@@ -1,5 +1,3 @@
-package fr.zarkin.project;
-
 public class Data {
     
     float min, max, moy, total;

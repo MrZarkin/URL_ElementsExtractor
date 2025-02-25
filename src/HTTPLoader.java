@@ -1,5 +1,3 @@
-package fr.zarkin.project;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -20,7 +18,6 @@ public class HTTPLoader {
     	try {
 			URI uri = new URI(_url);
 			URL url = uri.toURL();
-			
 	    	
 	    	HttpURLConnection connection = (HttpURLConnection) url.openConnection();
 	        connection.setRequestMethod("GET"); // Définir la méthode de requête

@@ -1,5 +1,3 @@
-package fr.zarkin.project;
-
 import java.io.IOException;
 
 public class Main {
