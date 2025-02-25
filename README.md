@@ -9,6 +9,7 @@ Bulawayo;10.9
 Palembang;18.8
 St. John's;30.2
 Krakow;21.6
+...
 ```
 The program should therefore output the minimum, average and maximum temperatures per station, sorted alphabetically.
 
